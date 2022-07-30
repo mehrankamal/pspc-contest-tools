@@ -8,7 +8,7 @@ This repository intended for hosting tools to make creating pSets for our weekly
 
 Contest Creator Specifications:
 
-[] Should not have repeated problem from any past contest. So, each contest should be a unique one
-[] Should be able to sync with a database (I'm thinking of an spreadsheet over Google Sheets API) and keep the stuff in sync
-[] Will scrape the Codeforces API with the tags and theme of the contest given and with a problem's difficulty range and sync with the spreadsheet.
-[] We should be able to get problems of our previous mashup contests
+- [ ] Should not have repeated problem from any past contest. So, each contest should be a unique one
+- [ ] Should be able to sync with a database (I'm thinking of an spreadsheet over Google Sheets API) and keep the stuff in sync
+- [ ] Scrape the Codeforces API with the tags and theme of the contest given and with a problem's difficulty range and sync with the spreadsheet.
+- [ ] We should be able to get problems of our previous mashup contests
